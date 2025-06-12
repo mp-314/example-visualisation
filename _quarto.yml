@@ -15,19 +15,19 @@ website:
     
     # your sub-pages
     left:
-      - text: "Projects"
+      - text: "PPP"
         href: projects/index.qmd
-      - text: "Photography"
+      - text: "PPPPPPPPPPP"
         href: photography/index.qmd
-      - text: "CV"
+      - text: "CCCCCCCCCC"
         href: cv/index.qmd
-      - text: "Site 4"
+      - text: "S4"
         href: cv/index.qmd
-      - text: "Site 4"
+      - text: "Si4"
         href: cv/index.qmd
-      - text: "Site 4"
+      - text: "Sit4"
         href: cv/index.qmd
-      - text: "Site 4"
+      - text: "Site4"
         href: cv/index.qmd
     
     # your social media handles
