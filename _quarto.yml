@@ -21,6 +21,14 @@ website:
         href: photography/index.qmd
       - text: "CV"
         href: cv/index.qmd
+      - text: "Site 4"
+        href: cv/index.qmd
+      - text: "Site 4"
+        href: cv/index.qmd
+      - text: "Site 4"
+        href: cv/index.qmd
+      - text: "Site 4"
+        href: cv/index.qmd
     
     # your social media handles
     right:
